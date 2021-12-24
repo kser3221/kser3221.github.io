@@ -1,0 +1,121 @@
+I"#	<div class="projects">
+  
+  <!-- Display categorized projects -->
+    
+      <h2 class="category">드럼스캔</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+    <div class="card hoverable">
+      
+        
+
+<figure>
+
+  <picture>
+    
+      <source media="(max-width: 480px)" srcset="/assets/img/drumscan_01-480.webp" />
+    
+      <source media="(max-width: 800px)" srcset="/assets/img/drumscan_01-800.webp" />
+    
+      <source media="(max-width: 1400px)" srcset="/assets/img/drumscan_01-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/drumscan_01.jpeg" alt="" />
+
+  </picture>
+
+  
+
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">드럼스캔1</h2>
+        <p class="card-text"></p>
+      </div>
+    </div>
+</div>
+
+          
+            <div class="grid-item">
+    <div class="card hoverable">
+      
+        
+
+<figure>
+
+  <picture>
+    
+      <source media="(max-width: 480px)" srcset="/assets/img/drumscan_02-480.webp" />
+    
+      <source media="(max-width: 800px)" srcset="/assets/img/drumscan_02-800.webp" />
+    
+      <source media="(max-width: 1400px)" srcset="/assets/img/drumscan_02-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/drumscan_02.jpeg" alt="" />
+
+  </picture>
+
+  
+
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">드럼스캔2</h2>
+        <p class="card-text"></p>
+      </div>
+    </div>
+</div>
+
+          
+            <div class="grid-item">
+    <div class="card hoverable">
+      
+        
+
+<figure>
+
+  <picture>
+    
+      <source media="(max-width: 480px)" srcset="/assets/img/drumscan_03-480.webp" />
+    
+      <source media="(max-width: 800px)" srcset="/assets/img/drumscan_03-800.webp" />
+    
+      <source media="(max-width: 1400px)" srcset="/assets/img/drumscan_03-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/drumscan_03.jpeg" alt="" />
+
+  </picture>
+
+  
+
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Drum_3</h2>
+        <p class="card-text"></p>
+      </div>
+    </div>
+</div>
+
+          
+        </div>
+      
+    
+
+  
+
+</div>
+:ET
