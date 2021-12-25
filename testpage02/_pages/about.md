@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: logo.png
+  image: 
   address: >
     <p>대표번호: 02)123-1234</p>
     <p>팩스: 02)123-1234</p><br/>
